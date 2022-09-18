@@ -1,0 +1,2 @@
+# AKindOfMagic
+Musikerkennung mit ShazamKit.
