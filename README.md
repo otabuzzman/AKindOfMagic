@@ -1,6 +1,6 @@
 # AKindOfMagic
 
-Das Repository ergänzt den Hintergrundartikel _A Kind of Magic_ im Apple-Magazin Mac & i Heft 5/2022, S. 98. Es enthält das Code-Schnipsel aus dem Artikel, mit dem sich Songs in einem selbst erstellten Katalog finden lassen. Der Artikel beschreibt außerdem die Katalogerstellung mit ShazamKit CLI, einem Tool für die Kommandozeile, das Apple für macOS 13 angekündigt hat.
+Das Repository ergänzt den Hintergrundartikel _A Kind of Magic_ im Apple-Magazin [Mac & i Heft 5/2022, S. 98](https://www.heise.de/select/mac-and-i/2022/5/2209113283329077435). Es enthält das Code-Schnipsel aus dem Artikel, mit dem sich Songs in einem selbst erstellten Katalog finden lassen. Der Artikel beschreibt außerdem die Katalogerstellung mit ShazamKit CLI, einem Tool für die Kommandozeile, das Apple für macOS 13 angekündigt hat.
 
 Da macOS 13 noch nicht raus ist, gibt's für Hacker on a hurry zusätzlichen Code zur Katalogerstellung mit der ShazamKit API.
 
